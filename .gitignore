@@ -1,0 +1,20 @@
+# files 
+response.csv
+USE.md
+TODO.md
+
+# folders
+evidencias/
+
+
+# envs
+.env
+.dev_engine_ms
+
+
+# pycache
+__pycache__/
+*.pyc
+
+#python.exe
+*.exe
